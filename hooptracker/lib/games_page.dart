@@ -92,8 +92,4 @@ class _GamesPageState extends State<GamesPage> {
     return formattedDate;
   }
   
-  void check()
-  {
-    
-  }
 }
