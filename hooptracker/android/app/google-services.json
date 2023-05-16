@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "263065310534",
+    "firebase_url": "https://hooptracker-799e8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "hooptracker-799e8",
+    "storage_bucket": "hooptracker-799e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263065310534:android:195aac37eaba2d34dc4147",
+        "android_client_info": {
+          "package_name": "com.example.hooptracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263065310534-mcpt9164grugbigdb7clocrmk0sn6msj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIbCZPoRbST8d8poViZLdLfSyDTiA4Xzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263065310534-mcpt9164grugbigdb7clocrmk0sn6msj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
